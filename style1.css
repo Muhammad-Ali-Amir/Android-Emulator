@@ -1,0 +1,64 @@
+.nav{background-color:#FF4018 ;}
+
+
+.nav-link{
+    text-size-adjust: 20px !important;
+    color: white;}
+
+
+
+    .huha{
+        text-align: center;
+        padding-top: 2cm;
+        text-shadow: gray 3px 3px 6px;
+        color:#FF4018 !important;    
+    }
+
+
+    .specs{
+        margin: 20px;
+        color: gray;
+    }
+
+
+    .btn-outline-danger{
+        margin-left: auto ; 
+        margin-top: 20px;
+        max-width: auto;
+    }
+
+
+    .para{
+        text-align: center;
+        color: #FF4018;
+        margin-top:10px ;
+        margin-bottom: 20px;
+    }
+
+
+
+    .footer{
+        background-color:#FF4018 ;
+        color: white !important;
+       
+        height: 90px;
+        text-align: center;
+        padding-top: 20px;
+       
+    }
+
+
+.back{
+    background-image: url(https://s3.amazonaws.com/sensortower-itunes/blog/2019/04/pubg-mobile-revenue-march-2019.jpg);
+    background-repeat: no-repeat;
+    
+    max-width: 100%;
+    height: auto;
+
+}
+    
+
+.features{
+    margin-left: 50px;
+    color:#FF4018 ;
+    text-shadow: gray 3px 3px 7px;}
